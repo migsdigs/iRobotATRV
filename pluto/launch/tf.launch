@@ -1,0 +1,7 @@
+<launch>
+
+<!-- TF and points processing -->
+        <param name="robot_description" command="cat $(find pluto_xi)/model/atrv.urdf" />
+        <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+        <node name="pluto_state_broadcaster" pkg="pluto_xi" type="pluto_state_broadcaster" />
+</launch>
