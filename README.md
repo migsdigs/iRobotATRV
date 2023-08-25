@@ -4,8 +4,8 @@ Why do we need this?
 
 1. The iRobot ATRV was released in 2007, and as such support from iRobot is no longer offered. This repo provides drivers and instructions for setting up and running Pluto with the use of a wireless controller.
 2. The goal is to utilize Pluto for data collection in an outdoor/rugged environent.
-3. This specific readme only details how to **run** Pluto. For installation and configuration please refer to the [install readme](https://gits-15.sys.kth.se/magn2/rpl_PlutoATRV/blob/main/assets/install/readme.md).
-4. The wireless controller used is the Logitech F710 Wireless Gamepad. Refer to [install readme](https://gits-15.sys.kth.se/magn2/rpl_PlutoATRV/blob/main/assets/install/readme.md) for its setup.
+3. This specific readme only details how to **run** Pluto. For installation and configuration please refer to the [install readme](https://github.com/migsdigs/iRobotATRV/blob/main/assets/install/readme.md).
+4. The wireless controller used is the Logitech F710 Wireless Gamepad. Refer to [install readme](https://github.com/migsdigs/iRobotATRV/blob/main/assets/install/readme.md) for its setup.
 
 Test system: Ubuntu 20.04, ROS Noetic
 
@@ -18,7 +18,7 @@ Sensor setup:
 
 Front-Side    | Top-Back
 ------------- | -------------
-![picture alt](https://gits-15.sys.kth.se/magn2/rpl_PlutoATRV/blob/main/assets/img/front.jpg/ "Front")  | ![picture alt](https://gits-15.sys.kth.se/magn2/rpl_PlutoATRV/blob/main/assets/img/back.jpg/ "Back")
+![picture alt](https://github.com/migsdigs/iRobotATRV/tree/main/assets/img/front.jpg/ "Front")  | ![picture alt](https://github.com/migsdigs/iRobotATRV/tree/main/assets/img/back.jpg/ "Back")
 
 
 ## Power On
@@ -35,7 +35,7 @@ Front-Side    | Top-Back
 
 ## Build & Run
 
-Note again: see [install readme](https://gits-15.sys.kth.se/magn2/rpl_PlutoATRV/blob/main/assets/install/readme.md) for installation instructions
+Note again: see [install readme](https://github.com/migsdigs/iRobotATRV/blob/main/assets/install/readme.md) for installation instructions
 
 The path to the ATRV drivers and Pluto code on the NUC is:
 
