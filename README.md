@@ -18,7 +18,7 @@ Sensor setup:
 
 Front-Side    | Top-Back
 ------------- | -------------
-![picture alt](https://github.com/migsdigs/iRobotATRV/tree/main/assets/img/front.jpg/ "Front")  | ![picture alt](https://github.com/migsdigs/iRobotATRV/tree/main/assets/img/back.jpg/ "Back")
+![picture alt](https://github.com/migsdigs/iRobotATRV/blob/main/assets/img/front.jpg "Front")  | ![picture alt](https://github.com/migsdigs/iRobotATRV/tree/main/assets/img/back.jpg "Back")
 
 
 ## Power On
