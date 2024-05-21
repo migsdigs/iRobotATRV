@@ -9,7 +9,7 @@ Why do we need this?
 
 Test system: Ubuntu 20.04, ROS Noetic
 
-Author:
+Author: Miguel Garcia Naude
 
 ---
 
